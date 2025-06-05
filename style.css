@@ -105,7 +105,7 @@ body.show-chatbot #chatbot-toggler span:first-child,
   display: flex;
   flex-direction: column;
   gap: 20px;
-  height: 460px;
+  height: calc(100vh - 267px);
   margin-bottom: 82px;
   overflow-y: auto;
   scrollbar-width: thin;
